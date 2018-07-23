@@ -16,7 +16,7 @@ urlslug = “/#{Season}-#{year)”</p>
 
 <h4>Selection Parameters</p>
 
-<h5Allow for date selection</h5>
+<h5>Allow for date selection</h5>
 
 <ul>
 
@@ -70,14 +70,17 @@ add shows by average score
 </ul>
 
 <h4>Display Tables</h4>
+<ul>
 
--Active
+<li>Active</li>
 
--Completed
+<li>Completed</li>
 
--Dropped
+<li>Dropped</li>
 
--Estimated time commitment
+<li>Estimated time commitment</li>
 
-Active shows Unwatched episodes *22 minutes
+<li>Active shows Unwatched episodes *22 minutes</li>
+
+</ul>
 
