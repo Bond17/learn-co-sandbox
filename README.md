@@ -10,9 +10,9 @@
 
 using format ex. "/Summer-2018"
 
-url= “anichart.net”+ urlslug 
+<strong>url</strong>= “anichart.net”+ <strong>urlslug</strong> 
 
-urlslug = “/#{Season}-#{year)”</p>
+<strong>urlslug</strong> = “/#{Season}-#{year)”</p>
 
 <h4>Selection Parameters</p>
 
